@@ -1,3 +1,9 @@
+## Forked Details
+
+Added "Today" button for quickly selecting today as end date in date range picker.
+
+![](https://i.imgur.com/p7cKIKw.png)
+
 # Date Range Picker
 
 ![Improvely.com](https://i.imgur.com/UTRlaar.png)
